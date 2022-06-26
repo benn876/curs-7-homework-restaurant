@@ -1,0 +1,3 @@
+# Project exclude paths
+/restaurant-api-model/target/
+/restaurant-service-client/target/
